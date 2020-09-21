@@ -8,6 +8,11 @@ public class CalsiTest {
 		int result = 	add(4,5);
 		
 			System.out.println(result);
+			
+			Util.getMessage();
+			
+		Util.sayHello();
+			
 		
 	}
 	
