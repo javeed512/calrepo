@@ -11,7 +11,7 @@ public class CalsiTest {
 			
 			Util.getMessage();
 			
-			
+		Util.sayHello();
 			
 		
 	}
